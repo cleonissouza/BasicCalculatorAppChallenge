@@ -33,3 +33,8 @@ This challenge helped me improve my understanding of how the UI connects with Ko
 Project completed as a learning challenge.
 
 ## 📸ScreenShots
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/97bb60c1-fb5f-4f78-8979-ba959251d527" />
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9a76223a-7e6d-4a57-a7ad-506a9da6ed15" />
+
